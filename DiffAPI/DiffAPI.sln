@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34310.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiffAPI", "DiffAPI.csproj", "{FCCA1F73-31F3-4184-B67F-BF53E6379060}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiffUnitTests", "..\DiffUnitTests\DiffUnitTests.csproj", "{EEC6ACA2-6818-403B-AB45-205E42F6F05A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCCA1F73-31F3-4184-B67F-BF53E6379060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCA1F73-31F3-4184-B67F-BF53E6379060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCA1F73-31F3-4184-B67F-BF53E6379060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCA1F73-31F3-4184-B67F-BF53E6379060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC6ACA2-6818-403B-AB45-205E42F6F05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC6ACA2-6818-403B-AB45-205E42F6F05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC6ACA2-6818-403B-AB45-205E42F6F05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC6ACA2-6818-403B-AB45-205E42F6F05A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF8A8098-4EF9-4348-AFCF-008CBA5D7F36}
+	EndGlobalSection
+EndGlobal

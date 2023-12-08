@@ -1,0 +1,6 @@
+@DiffAPI_HostAddress = http://localhost:5063
+
+GET {{DiffAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
